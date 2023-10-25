@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=transaksi
+comment1.params=daftar\ obat\ vitamin\ dokter\ total
+comment1.target=void\ transaksi(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ hitung()
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Perawatan
+comment1.params=jenisPerawatan\ hargaPerawatan\ jumlahOrang\ hitungHargaPerawatan
+comment1.target=Perawatan(java.lang.String,\ int,\ int,\ int)
+comment2.params=sc
+comment2.target=void\ pilihPerawatan(java.util.Scanner)
+comment3.params=
+comment3.target=java.lang.String\ getJenisPerawatan()
+comment4.params=
+comment4.target=int\ getHargaPerawatan()
+comment5.params=
+comment5.target=int\ getJumlahOrang()
+comment6.params=
+comment6.target=int\ hitungHargaPerawatan()
+numComments=7
